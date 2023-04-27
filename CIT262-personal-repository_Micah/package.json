@@ -1,0 +1,11 @@
+{
+  "name": "cit262-personal-repository_micah",
+  "version": "1.0.0",
+  "description": "Hello!\r My name is Micah, I absolutely love reading and 3D printing!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "author": "",
+  "license": "ISC"
+}
